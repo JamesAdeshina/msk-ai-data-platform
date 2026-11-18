@@ -112,6 +112,7 @@ The platform is a research data engineering demonstration and is not a validated
 
 
 ## Repository structure
+```
 msk-ai-data-platform/
 │
 ├── frontend/                  # React web application
@@ -152,3 +153,4 @@ msk-ai-data-platform/
 ├── README.md
 ├── requirements.txt
 └── LICENSE
+```
